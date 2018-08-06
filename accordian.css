@@ -1,0 +1,24 @@
+.paragraph{
+	display: flex;
+	font-size:1.5rem;
+	font-weight: bold;
+	color: white;
+	margin-top: 5px;
+}
+.btn1{
+	width:100px;
+	font-weight: bold;
+	margin-top: 10px;
+	height: 40px;
+
+}
+.btn2{
+	width:100px;
+	font-weight: bold;
+	margin-top: 10px;
+	height: 40px;
+}
+.row{
+	background-color: #9aabbc;
+	height:250px;
+}
